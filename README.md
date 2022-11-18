@@ -1,2 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renren-017&count_private=true%show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renren-017&hide=prolog&show_icons=true&theme=transparent&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=renren-017&theme=vue&hide_border=true&background=DD272700)](https://git.io/streak-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
