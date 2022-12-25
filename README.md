@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 December 2022 - To: 23 December 2022
+From: 17 December 2022 - To: 24 December 2022
 
 Python           12 hrs 12 mins  >>>>>>>>>>---------------   41.76 %
 Dart             8 hrs 38 mins   >>>>>>>------------------   29.55 %
