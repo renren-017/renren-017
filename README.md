@@ -3,14 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 December 2022 - To: 26 December 2022
+From: 20 December 2022 - To: 27 December 2022
 
-Python           15 hrs 56 mins  >>>>>>>>>>>>>------------   53.75 %
-Dart             5 hrs 54 mins   >>>>>--------------------   19.92 %
-YAML             4 hrs 20 mins   >>>>---------------------   14.62 %
-Text             1 hr 4 mins     >------------------------   03.61 %
-GitIgnore file   43 mins         >------------------------   02.43 %
-Bash             30 mins         -------------------------   01.72 %
+Python           19 hrs 44 mins  >>>>>>>>>>>>>>>>>--------   66.96 %
+Dart             4 hrs 31 mins   >>>>---------------------   15.35 %
+YAML             2 hrs 8 mins    >>-----------------------   07.24 %
+Text             53 mins         >------------------------   03.02 %
+GitIgnore file   36 mins         >------------------------   02.09 %
+Bash             26 mins         -------------------------   01.51 %
 ```
 
 <!--END_SECTION:waka-->
