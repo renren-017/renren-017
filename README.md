@@ -3,11 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 December 2022 - To: 03 January 2023
-
-Python   2 hrs 4 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   99.12 %
-Bash     1 min           -------------------------   00.83 %
-YAML     0 secs          -------------------------   00.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
