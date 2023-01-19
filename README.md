@@ -3,14 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 January 2023 - To: 17 January 2023
+From: 11 January 2023 - To: 18 January 2023
 
-Python                                   18 hrs 27 mins  >>>>>>>>>>>>>>>>>--------   69.01 %
-YAML                                     3 hrs 56 mins   >>>>---------------------   14.73 %
-Nginx configuration file                 58 mins         >------------------------   03.63 %
-Text                                     46 mins         >------------------------   02.88 %
-Nginx Configuration                      41 mins         >------------------------   02.56 %
-HTML                                     35 mins         >------------------------   02.20 %
+Python                                   14 hrs 50 mins  >>>>>>>>>>>>>>>>---------   65.38 %
+YAML                                     3 hrs 56 mins   >>>>---------------------   17.34 %
+Nginx configuration file                 58 mins         >------------------------   04.28 %
+Text                                     45 mins         >------------------------   03.37 %
+Nginx Configuration                      41 mins         >------------------------   03.02 %
+Bash                                     29 mins         >------------------------   02.19 %
 ```
 
 <!--END_SECTION:waka-->
