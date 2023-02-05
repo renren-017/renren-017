@@ -3,13 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 January 2023 - To: 03 February 2023
+From: 28 January 2023 - To: 04 February 2023
 
-Python           17 hrs 7 mins   >>>>>>>>>>>>>>>>>--------   69.04 %
-JSON             7 hrs 14 mins   >>>>>>>------------------   29.20 %
-Text             14 mins         -------------------------   00.95 %
-HTML             9 mins          -------------------------   00.66 %
-GitIgnore file   2 mins          -------------------------   00.15 %
+Python           10 hrs 28 mins  >>>>>>>>>>>>>>>----------   58.85 %
+JSON             7 hrs 14 mins   >>>>>>>>>>---------------   40.71 %
+Text             2 mins          -------------------------   00.23 %
+GitIgnore file   2 mins          -------------------------   00.22 %
 ```
 
 <!--END_SECTION:waka-->
