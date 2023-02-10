@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 February 2023 - To: 08 February 2023
+From: 02 February 2023 - To: 09 February 2023
 
 Text             8 mins          >>>>>>>>>>>>>>>>>>>>>----   82.47 %
 Python           1 min           >>>>---------------------   16.40 %
