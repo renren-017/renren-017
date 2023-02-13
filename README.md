@@ -3,13 +3,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 February 2023 - To: 11 February 2023
+From: 05 February 2023 - To: 12 February 2023
 
-C++              3 hrs 19 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   94.49 %
-Text             8 mins          >------------------------   03.93 %
-GitIgnore file   1 min           -------------------------   00.81 %
-Python           1 min           -------------------------   00.78 %
-Bash             0 secs          -------------------------   00.00 %
+C++              3 hrs 19 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   99.21 %
+GitIgnore file   1 min           -------------------------   00.79 %
 ```
 
 <!--END_SECTION:waka-->
