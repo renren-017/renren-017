@@ -3,14 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 February 2023 - To: 15 February 2023
+From: 09 February 2023 - To: 16 February 2023
 
-Python              5 hrs 14 mins   >>>>>>>>>>>>>------------   50.36 %
-C++                 3 hrs 19 mins   >>>>>>>>-----------------   31.92 %
-HTML                1 hr 15 mins    >>>----------------------   12.08 %
-GitIgnore file      15 mins         >------------------------   02.49 %
-JavaScript          9 mins          -------------------------   01.49 %
-YAML                6 mins          -------------------------   00.99 %
+Python              6 hrs 28 mins   >>>>>>>>>>>>-------------   49.32 %
+C++                 3 hrs 19 mins   >>>>>>-------------------   25.30 %
+HTML                2 hrs 32 mins   >>>>>--------------------   19.36 %
+GitIgnore file      23 mins         >------------------------   02.95 %
+JavaScript          9 mins          -------------------------   01.18 %
+YAML                6 mins          -------------------------   00.78 %
 ```
 
 <!--END_SECTION:waka-->
