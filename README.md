@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 September 2023 - To: 21 September 2023
+From: 15 September 2023 - To: 22 September 2023
 
-Python            4 hrs 49 mins   >>>>>>>>>>>>>>>>>--------   69.14 %
-JSON              1 hr 13 mins    >>>>---------------------   17.49 %
-ActionScript      33 mins         >>-----------------------   07.96 %
-YAML              13 mins         >------------------------   03.29 %
-GDScript          3 mins          -------------------------   00.89 %
+Python            6 hrs 54 mins   >>>>>>>>>>>>>>>>>--------   69.32 %
+JSON              1 hr 13 mins    >>>----------------------   12.25 %
+YAML              43 mins         >>-----------------------   07.22 %
+ActionScript      33 mins         >------------------------   05.58 %
+SQL               16 mins         >------------------------   02.81 %
 ```
 
 <!--END_SECTION:waka-->
