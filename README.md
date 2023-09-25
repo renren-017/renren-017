@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2023 - To: 23 September 2023
+From: 17 September 2023 - To: 24 September 2023
 
 Python            7 hrs 21 mins   >>>>>>>>>>>>>>>>>>-------   70.57 %
 JSON              1 hr 13 mins    >>>----------------------   11.69 %
