@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 October 2023 - To: 02 November 2023
+From: 27 October 2023 - To: 03 November 2023
 
-Python           7 hrs           >>>>>>>>>>>>>>>>>>>>>>>>-   97.34 %
-Markdown         6 mins          -------------------------   01.51 %
-Bash             1 min           -------------------------   00.36 %
-YAML             1 min           -------------------------   00.27 %
-GitIgnore file   1 min           -------------------------   00.27 %
+Python           6 hrs 57 mins   >>>>>>>>>>>>>>>>>>>>>>>--   91.05 %
+SQL              15 mins         >------------------------   03.36 %
+YAML             10 mins         >------------------------   02.30 %
+Markdown         6 mins          -------------------------   01.43 %
+Bash             2 mins          -------------------------   00.62 %
 ```
 
 <!--END_SECTION:waka-->
