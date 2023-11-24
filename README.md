@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 November 2023 - To: 22 November 2023
+From: 16 November 2023 - To: 23 November 2023
 
-Python           7 hrs 40 mins   >>>>>>>>>>>>>>>>>>>>>>---   86.86 %
-SQL              30 mins         >------------------------   05.77 %
-YAML             14 mins         >------------------------   02.73 %
-Text             11 mins         >------------------------   02.14 %
-GitIgnore file   6 mins          -------------------------   01.29 %
+Python           6 hrs 33 mins   >>>>>>>>>>>>>>>>>>>>>>---   86.77 %
+SQL              30 mins         >>-----------------------   06.66 %
+Text             11 mins         >------------------------   02.49 %
+YAML             9 mins          >------------------------   02.03 %
+GitIgnore file   4 mins          -------------------------   01.03 %
 ```
 
 <!--END_SECTION:waka-->
