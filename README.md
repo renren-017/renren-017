@@ -3,9 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2023 - To: 28 November 2023
+From: 22 November 2023 - To: 29 November 2023
 
-No activity tracked
+Python       32 mins         >>>>>>>>>>>>-------------   49.40 %
+YAML         15 mins         >>>>>>-------------------   24.04 %
+Text         8 mins          >>>----------------------   13.45 %
+Bash         7 mins          >>>----------------------   11.14 %
+SQL          1 min           -------------------------   01.93 %
 ```
 
 <!--END_SECTION:waka-->
